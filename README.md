@@ -21,7 +21,7 @@ Aplicação em Python, feita em dupla, para cadastrar, listar, buscar e remover 
 python agenda.py
 ## Autores
 
-- Nome da Pessoa A - @pedroschot
+- Nome da Pessoa A - @pedroschott
 - Nome da Pessoa B - @RafaLima67
 
 ## Sobre o projeto
