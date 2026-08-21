@@ -35,7 +35,6 @@ def buscar_contato():
 
 
 def remover_contato():
-    def remover_contato():
     nome = input("Digite o nome exato do contato a remover: ")
     for contato in contatos:
         if contato["nome"].lower() == nome.lower():
