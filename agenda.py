@@ -24,7 +24,7 @@ def listar_contatos():
 
 def buscar_contato():
     def buscar_contato():
-    termo = input("Digite o nome (ou parte dele) para buscar: ")
+        termo = input("Digite o nome (ou parte dele) para buscar: ")
     encontrou = False
     for contato in contatos:
         if termo.lower() in contato["nome"].lower():
